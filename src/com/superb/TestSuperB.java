@@ -6,5 +6,6 @@ public class TestSuperB {
 		System.out.println("superB01");
 		System.out.println("superB02");
 		System.out.println("superB04");
+		System.out.println("superB03");
 	}
 }
